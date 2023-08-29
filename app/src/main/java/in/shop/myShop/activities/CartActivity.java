@@ -60,6 +60,8 @@ public class CartActivity extends AppCompatActivity {
             }
         });
 
+        //this is the Cart Activity
+
 
     }
 
